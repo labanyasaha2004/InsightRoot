@@ -1,0 +1,13 @@
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.streamlit/
+.env
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Generated datasets
+data/raw/
+data/processed/
